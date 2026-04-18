@@ -28,16 +28,40 @@
 
 ## Tech Stack
 
+### Frontend
+
 <p>
-  <img src="https://skillicons.dev/icons?i=react,vite,js,html,css,nodejs,express,firebase,python,git,github" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=react,vite,js,html,css" alt="Frontend Stack" />
 </p>
 
-**Working with:**
+Frontend: React, Vite, JavaScript, HTML, CSS
 
-- Frontend: React, Vite, JavaScript, HTML, CSS
-- Backend and services: Node.js, Express, Firebase
-- Real-time and product workflows: Socket.IO, dashboard UX, deployment-ready web systems
-- Supporting tools: Git, GitHub, Python, Jupyter-style analysis workflows
+### Backend and Services
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,firebase" alt="Backend and Services" />
+</p>
+
+Backend and services: Node.js, Express, Firebase
+
+### Real-Time and Product Workflows
+
+<p>
+  <img src="https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socketdotio&logoColor=white" alt="Socket.IO" />
+  <img src="https://img.shields.io/badge/Dashboard%20UX-0f172a?style=for-the-badge" alt="Dashboard UX" />
+  <img src="https://img.shields.io/badge/Deployment--Ready%20Web%20Systems-0f172a?style=for-the-badge" alt="Deployment Ready Web Systems" />
+</p>
+
+Real-time and product workflows: Socket.IO, dashboard UX, deployment-ready web systems
+
+### Supporting Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,python" alt="Supporting Tools" />
+  <img src="https://img.shields.io/badge/Jupyter%20Style%20Analysis-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter Style Analysis" />
+</p>
+
+Supporting tools: Git, GitHub, Python, Jupyter-style analysis workflows
 
 ---
 
