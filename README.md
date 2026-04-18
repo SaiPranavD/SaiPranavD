@@ -11,9 +11,6 @@
   <a href="https://github.com/SaiPranavD">
     <img src="https://img.shields.io/badge/GitHub-SaiPranavD-181717?style=for-the-badge&logo=github" alt="GitHub" />
   </a>
-  <a href="https://www.kaggle.com/saipranav3125">
-    <img src="https://img.shields.io/badge/Kaggle-saipranav3125-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" />
-  </a>
   <a href="https://www.linkedin.com/in/dushettysaipranav">
     <img src="https://img.shields.io/badge/LinkedIn-D%20Sai%20Pranav-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
@@ -123,9 +120,6 @@ Supporting tools: Git, GitHub, Python, Jupyter-style analysis workflows
 <p>
   <a href="https://github.com/SaiPranavD">
     <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github" alt="GitHub Profile" />
-  </a>
-  <a href="https://www.kaggle.com/saipranav3125">
-    <img src="https://img.shields.io/badge/Kaggle-Profile-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle Profile" />
   </a>
   <a href="https://www.linkedin.com/in/dushettysaipranav">
     <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile" />
