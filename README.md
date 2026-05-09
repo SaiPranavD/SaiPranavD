@@ -15,7 +15,6 @@
     <img src="https://img.shields.io/badge/LinkedIn-D%20Sai%20Pranav-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <img src="https://img.shields.io/badge/Focus-Web%20Apps%20%7C%20Dashboards%20%7C%20Real--Time%20Systems-0f172a?style=for-the-badge" alt="Focus" />
-  <img src="https://img.shields.io/badge/Currently%20Building-SmartRelay%20AI-0ea5e9?style=for-the-badge" alt="Currently Building" />
 </p>
 
 ---
@@ -24,7 +23,7 @@
 
 - I build polished, demo-ready web products with strong UI, live interactions, and practical problem-solving.
 - I enjoy turning ideas into usable platforms, especially for dashboards, automation, real-time collaboration, and social-impact solutions.
-- My recent work spans predictive maintenance, clean-water monitoring, multiplayer auction systems, and community-focused web apps.
+- My recent work spans clean-water monitoring, multiplayer auction systems, and community-focused web apps.
 - I like projects that combine product thinking, frontend experience, and deployable backend workflows.
 
 ---
@@ -72,7 +71,6 @@ Supporting tools: Git, GitHub, Python, Jupyter-style analysis workflows
 
 | Project | Description | Stack |
 | --- | --- | --- |
-| [SmartRelay](https://github.com/SaiPranavD/SmartRelay) | Predictive maintenance platform for inverters and UPS systems with relay health estimation, failure simulation, alerts, architecture flow, support workflows, and a polished dashboard experience. | React, Vite, Tailwind CSS, Framer Motion, Recharts |
 | [AquaRakshak](https://github.com/SaiPranavD/AquaRakshak) | Web MVP for SDG 6 focused on clean water and sanitation, with Firebase-backed workflows, risk scoring, simulator-driven monitoring, and admin/resident flows. | React, Firebase, JavaScript, Python, Jupyter Notebook |
 | [Auction](https://github.com/SaiPranavD/Auction) | Real-time multiplayer IPL-style auction platform with room-based bidding, synchronized updates, anti-sniping, admin controls, and team analytics. | React, Vite, Express, Socket.IO |
 | [LocalLens](https://github.com/SaiPranavD/LocalLens) | Community bulletin board for local updates designed around simple, accessible information sharing. | HTML |
