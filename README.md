@@ -72,7 +72,6 @@ Supporting tools: Git, GitHub, Python, Jupyter-style analysis workflows
 | Project | Description | Stack |
 | --- | --- | --- |
 | [AquaRakshak](https://github.com/SaiPranavD/AquaRakshak) | Web MVP for SDG 6 focused on clean water and sanitation, with Firebase-backed workflows, risk scoring, simulator-driven monitoring, and admin/resident flows. | React, Firebase, JavaScript, Python, Jupyter Notebook |
-| [Auction](https://github.com/SaiPranavD/Auction) | Real-time multiplayer IPL-style auction platform with room-based bidding, synchronized updates, anti-sniping, admin controls, and team analytics. | React, Vite, Express, Socket.IO |
 
 ---
 
