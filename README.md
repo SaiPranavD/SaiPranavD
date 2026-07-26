@@ -67,16 +67,6 @@ Supporting tools: Git, GitHub, Python, Jupyter-style analysis workflows
 
 ---
 
-## Featured Projects
-
-| Project | Description | Stack |
-| --- | --- | --- |
-| [Portfolio](https://github.com/SaiPranavD/PortFolio) | Personal portfolio website built with HTML, CSS, and JavaScript, featuring my projects, skills, certifications, resume, and contact information. | HTML, CSS, JavaScript |
-| [SmartRelay](https://github.com/SaiPranavD/SmartRelay) | Predictive maintenance platform for inverters and UPS systems with relay health estimation, failure simulation, alerts, architecture flow, support workflows, and a polished dashboard experience. | React, Vite, Tailwind CSS, Framer Motion, Recharts |
-| [AquaRakshak](https://github.com/SaiPranavD/AquaRakshak) | Web MVP for SDG 6 focused on clean water and sanitation, with Firebase-backed workflows, risk scoring, simulator-driven monitoring, and admin/resident flows. | React, Firebase, JavaScript, Python, Jupyter Notebook |
-
----
-
 ## What I Like Building
 
 - Interactive dashboards that feel like real products
